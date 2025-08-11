@@ -13,7 +13,7 @@ I turn raw, messy data into business-ready insights and repeatable data products
 
 ### Featured projects
 - **Chicago Crime Analytics Dashboard** — Snowflake + Power BI pipeline for 47k+ incidents; reusable DAX measures & district-level insights. 
-![Power BI Dashboard](images/Dashboard.png)
+![Power BI Dashboard](images/PowerBI Dashboard.png)
  
 - **Loan Amount Prediction App** — Ensemble models + Streamlit + SHAP for explainable predictions. 
 ![Preview of the Loan Prediction App](images/Preview.png)
