@@ -12,9 +12,14 @@ I turn raw, messy data into business-ready insights and repeatable data products
 ---
 
 ### Featured projects
-- **Chicago Crime Analytics Dashboard** — Snowflake + Power BI pipeline for 47k+ incidents; reusable DAX measures & district-level insights.  
-- **Loan Amount Prediction App** — Ensemble models + Streamlit + SHAP for explainable predictions.  
+- **Chicago Crime Analytics Dashboard** — Snowflake + Power BI pipeline for 47k+ incidents; reusable DAX measures & district-level insights. 
+![Power BI Dashboard](images/Dashboard.png)
+ 
+- **Loan Amount Prediction App** — Ensemble models + Streamlit + SHAP for explainable predictions. 
+![Preview of the Loan Prediction App](images/Preview.png)
+ 
 - **Stock Price Forecasting** — Time-series models (ARIMA/LSTM) with production-ready notebooks.
+
 
 (See pinned repos for full case studies & demos)
 
